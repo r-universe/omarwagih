@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggseqlogo"]
+	path = ggseqlogo
+	url = https://github.com/omarwagih/ggseqlogo
+	shallow = true
+	registered = true
